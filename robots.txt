@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aruraedo.github.io/sitemap_index.aruraedo
